@@ -105,7 +105,7 @@ Sample JSON data to be sent:
 
 ### Running the container (locally)
 
-* Run Image: `docker run -p 5000:5000 divesolutions.azurecr.io/jellyfish:latest`
+* Run Image: `docker run -p 8000:8000 slicebites:latest`
 
 ## Database
 
